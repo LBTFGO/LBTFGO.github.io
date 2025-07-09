@@ -16,18 +16,16 @@ body {
 
 <br>
 
-## Titel + Datum 
-
-<br>
-
-### Neue Funktionen
+## Release 23.37.29566.0 - 23.06.25
 
 <br>
 
 ### Anpassung bestehender Funktionen
 
+- Überarbeitung Bedarfsanforderunge
 <br>
 
 ### Fehlerbehebungen
 
+- Allgemeine Bugfixes
 </div>

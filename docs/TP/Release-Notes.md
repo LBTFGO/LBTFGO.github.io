@@ -37,6 +37,26 @@ h2 {
 
 <br>
 
+## Release 24.60.31120.0 - 09.07.25 
+
+<br>
+
+### Anpassung bestehender Funktionen
+
+- Änderung von Zusteller/Zustellertransportart trotz bestehender Frachtbestellung
+
+<br>
+
+## Release 24.59.30969.0 - 01.07.25 
+
+
+<br>
+
+### Fehlerbehebungen
+
+- Mengenänderung bei automatisch erstellten Detailzeilen
+<br>
+
 ## Release 24.57.30090.0 - 22.05.25
 
 <br>

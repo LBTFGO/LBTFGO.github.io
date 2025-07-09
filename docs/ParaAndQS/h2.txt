@@ -1,0 +1,18 @@
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+## Release Version - Date 
+
+<br>
+
+### Neue Funktionen
+
+<br>
+
+### Anpassung bestehender Funktionen
+
+<br>
+
+### Fehlerbehebungen
